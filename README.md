@@ -18,7 +18,7 @@ Implémenter des opérations d'insertion et de lecture
 # ![mise_à_jour_prix](https://github.com/user-attachments/assets/38cff73d-ce86-4b23-a48c-852e2b0e405f)
  # Suppression d'un produit: 
 # ![Prod_supprimé](https://github.com/user-attachments/assets/bb938ee4-f138-43d1-ace3-7fe33180789e)
- # ![supp_prod](https://github.com/user-attachments/assets/4022dd5e-2bcf-4b92-b21e-83c8884f0e0e)
+
 
 
 
