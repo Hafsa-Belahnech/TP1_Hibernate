@@ -8,6 +8,7 @@
     <artifactId>project1</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+     //générer ici en les ajoutant au dossier lors de sa création, sinon il faut les télécharger depuis le site de maven    
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
