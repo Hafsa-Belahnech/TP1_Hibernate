@@ -19,6 +19,8 @@ Implémenter des opérations d'insertion et de lecture
  # Suppression d'un produit: 
 # ![Prod_supprimé](https://github.com/user-attachments/assets/bb938ee4-f138-43d1-ace3-7fe33180789e)
 
+Rélisé par : HAFSA BELAHNECH 
+
 
 
 
