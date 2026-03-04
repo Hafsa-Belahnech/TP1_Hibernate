@@ -1,10 +1,10 @@
 # TP 1 : Création d'un projet Maven avec Hibernate et H2
 # 📋 Objectifs
 > Créer un projet Maven
-> Configurer Hibernate avec une base de données H2
-> Créer une entité JPA minimale
-> Implémenter des opérations d'insertion et de lecture
-#Captures d'écran: 
+> Configurer Hibernate avec une base de données H2  
+> Créer une entité JPA minimale  
+> Implémenter des opérations d'insertion et de lecture  
+# Captures d'écran: 
 <img width="566" height="292" alt="image" src="https://github.com/user-attachments/assets/1f1a8999-ca38-4232-8409-3ff87af1f8c1"/>
 <img width="843" height="743" alt="image" src="https://github.com/user-attachments/assets/e35384a9-23c3-4853-a331-944ad4354555" />
 <img width="725" height="801" alt="image" src="https://github.com/user-attachments/assets/65a43c4a-26ea-42d7-8679-d500815c17c8" />
