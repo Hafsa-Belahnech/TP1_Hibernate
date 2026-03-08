@@ -22,15 +22,11 @@
 > Mise à jour d'un produit :
 <img width="1088" height="667" alt="image" src="https://github.com/user-attachments/assets/d8c821f9-315c-4dc2-aabb-d7a10c16896a" />
 
-> Le code utilisé :
-![Miseàjourprd](https://github.com/user-attachments/assets/30cdc404-673f-4d63-af99-191b313a3606)
 
 
 >Suppression d'un produit: 
 <img width="779" height="621" alt="image" src="https://github.com/user-attachments/assets/6bede7da-17a9-4656-8749-6f165254f7ff" />
 
-> Le code utilisé :
-![supp_prod](https://github.com/user-attachments/assets/03963ba8-7ef3-4a48-9138-a3103297714d)
 
 
 
